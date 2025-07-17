@@ -2,7 +2,7 @@
 from telegram import Update, InputFile
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-BOT_TOKEN = "PASTE_YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "7351444454:AAESOGSebXeQn4wI7Xvxbz_WLBCj4tqUnxE"
 REQUIRED_CHANNELS = ['@YourChannel1', '@YourChannel2']
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
